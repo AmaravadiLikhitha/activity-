@@ -13,10 +13,6 @@
 
 4.Open the input.txt file in read mode.
 
-5.Read the contents of the file.
-
-6.Print the contents of the file.
-
 7.Open the even.txt file in append mode.
 
 8.Open the odd.txt file in append mode.
