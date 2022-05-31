@@ -1,14 +1,15 @@
-SEPERATING EVEN AND ODD NUMBERS
+#Activity 1
+#SEPERATING EVEN AND ODD NUMBERS
 
 
 
-1.Open the numbers.txt file in write mode.
+1.Open the input.txt file in write mode.
 
 2.Write the numbers 1 through 10 to the file.
 
 3.Close the file.
 
-4.Open the numbers.txt file in read mode.
+4.Open the input.txt file in read mode.
 
 5.Read the contents of the file.
 
@@ -18,7 +19,7 @@ SEPERATING EVEN AND ODD NUMBERS
 
 8.Open the odd.txt file in append mode.
 
-9.Loop through the numbers.txt file.
+9.Loop through the input.txt file.
 
 10.Check if the number is even or odd.
 
