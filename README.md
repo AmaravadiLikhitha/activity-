@@ -1,4 +1,7 @@
 SEPERATING EVEN AND ODD NUMBERS
+
+
+
 Open the numbers.txt file in write mode.
 Write the numbers 1 through 10 to the file.
 Close the file.
