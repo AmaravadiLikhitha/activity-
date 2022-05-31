@@ -2,28 +2,28 @@ SEPERATING EVEN AND ODD NUMBERS
 
 
 
-Open the numbers.txt file in write mode.
+1.Open the numbers.txt file in write mode.
 
-Write the numbers 1 through 10 to the file.
+2.Write the numbers 1 through 10 to the file.
 
-Close the file.
+3.Close the file.
 
-Open the numbers.txt file in read mode.
+4.Open the numbers.txt file in read mode.
 
-Read the contents of the file.
+5.Read the contents of the file.
 
-Print the contents of the file.
+6.Print the contents of the file.
 
-Open the even.txt file in append mode.
+7.Open the even.txt file in append mode.
 
-Open the odd.txt file in append mode.
+8.Open the odd.txt file in append mode.
 
-Loop through the numbers.txt file.
+9.Loop through the numbers.txt file.
 
-Check if the number is even or odd.
+10.Check if the number is even or odd.
 
-If the number is even, write it to the even.txt file.
+11.If the number is even, write it to the even.txt file.
 
-If the number is odd, write it to the odd.txt file.
+12.If the number is odd, write it to the odd.txt file.
 
-Close the files
+13.Close the files
