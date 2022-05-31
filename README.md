@@ -7,7 +7,7 @@
 
 1.Open the input.txt file in write mode.
 
-2.Write the numbers 1 through 10 to the file.
+2.Write the numbers 1 from 10 in the file.
 
 3.Close the file.
 
